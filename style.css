@@ -31,3 +31,15 @@ nav{
     margin-right: 20px;
 }
 
+.content .img_card img {
+    align-items: center;
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+}
+
+body{
+    background-image: url("images/back1.jpg");
+    background-size: cover;
+}
+
