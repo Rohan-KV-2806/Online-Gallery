@@ -1,0 +1,28 @@
+header{
+    border-style: solid;
+    text-align: center;
+}
+
+footer{
+    border-style: solid;
+    text-align: center;
+}
+
+nav{
+    display: flex;
+    border-style: hidden;
+    justify-content: space-evenly;
+}
+
+.content{
+    border-style:double;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 30px;
+}
+
+.content .img_card{
+    border-style: solid;
+    padding: 20px;
+}
+
