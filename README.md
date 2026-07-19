@@ -14,4 +14,5 @@ I built an online gallery web app using only HTML and CSS. No AI tools just me, 
 I used Flexbox to arrange the image cards so they wrap nicely on smaller screens. Added some basic styling to buttons and cards to make it look decent.
 
 This is simple but I will be updating this more often.
+
   P.S I still used DeepL to write this to avoid grammer mistakes
